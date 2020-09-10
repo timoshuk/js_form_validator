@@ -1,1 +1,1 @@
-# js_form_validator
+# js_form_validator It's so easy
